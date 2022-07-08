@@ -1,0 +1,6 @@
+export const SHOW_MODAL_FORM = 'SHOW_MODAL_FORM'
+export const FULL_NAME = 'FULL_NAME'
+export const REVIEW = 'REVIEW'
+export const AVATAR = 'AVATAR'
+export const ALL_REVIEW = 'ALL_REVIEW'
+export const ERRORS = 'ERRORS'

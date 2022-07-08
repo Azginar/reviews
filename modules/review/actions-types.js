@@ -1,0 +1,3 @@
+export const SEND_REVIEW = 'SEND_REVIEW'
+export const GET_REVIEW = 'GET_REVIEW'
+export const AUTHENTICATION = 'AUTHENTICATION'

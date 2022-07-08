@@ -1,0 +1,5 @@
+export const GET_SHOW_MODAL_FORM = 'GET_SHOW_MODAL_FORM'
+export const GET_ALL_REVIEW = 'GET_ALL_REVIEW'
+export const GET_ERRORS = 'GET_ERRORS'
+export const GET_COUNT_REVIEW = 'GET_COUNT_REVIEW'
+export const GET_FULL_NAME = 'GET_FULL_NAME'
